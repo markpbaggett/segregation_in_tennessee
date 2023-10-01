@@ -1,0 +1,18 @@
+{
+  "prod": {
+    "label": { "none": ["Segregation in Tennessee"] },
+    "collection": "https://gist.githubusercontent.com/markpbaggett/63af6c8c0ae0df8080692e1fbe77520c/raw/61b89359d575fe1bf842dadc146d09842d40c3ba/collection.json",
+    "featured": [
+      "https://digital.lib.utk.edu/assemble/manifest/volvoices/3992"
+    ],
+    "metadata": ["Subject", "Date"]
+  },
+  "dev": {
+    "label": { "none": ["Segregation in Tennessee"] },
+    "collection": "https://gist.githubusercontent.com/markpbaggett/63af6c8c0ae0df8080692e1fbe77520c/raw/61b89359d575fe1bf842dadc146d09842d40c3ba/collection.json",
+    "featured": [
+      "https://digital.lib.utk.edu/assemble/manifest/volvoices/3992"
+    ],
+    "metadata": ["Subject", "Date"]
+  }
+}
